@@ -1,4 +1,4 @@
-[![Header](https://github.com/BramZwart/BramZwart/blob/main/banner.png?raw=true "Header")](https://www.linkedin.com/in/bram-zwart-b6416b198/)
+[![Header](https://github.com/BramZwart/BramZwart/blob/main/banner2.png?raw=true "Header")](https://www.linkedin.com/in/bram-zwart-b6416b198/)
 
 
 ### Hi there 👋
