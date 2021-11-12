@@ -1,8 +1,8 @@
 [![Header](https://github.com/BramZwart/BramZwart/blob/main/banner2.png?raw=true "Header")](https://www.linkedin.com/in/bram-zwart-b6416b198/)
 
 
-### Hi there 👋
-
+### Hello 👋
+My name is Bram Zwart a young software developer. I'm from the Netherlands, living in Alkmaar nad currently unemployed and looking for a job. you can find me on Linkedin just press the banner.
 <!--
 **BramZwart/BramZwart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
