@@ -1,3 +1,4 @@
+[![Header](https://github.com/BramZwart/BramZwart/blob/main/banner.png "Header")](https://www.linkedin.com/in/bram-zwart-b6416b198/)
 ### Hi there 👋
 
 <!--
@@ -14,4 +15,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Header](https://raw.githubusercontent.com/BramZwart/<OWNER>/<OWNER>/banner.png "Header")](https://www.linkedin.com/in/bram-zwart-b6416b198/)
